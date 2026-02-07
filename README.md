@@ -1,6 +1,8 @@
 # sfaendog
 Stochastic frontier analysis with technical inefficiency effects and endogeneity of one input Use sfaendog (sfadv) With (In) R Software
 
+https://www.youtube.com/watch?v=EhjAzWhgIrw
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
